@@ -4,7 +4,8 @@ import React, { useEffect, useState } from 'react';
 const Counter = () => {
     const [duty, setDuty] = useState([])
     useEffect(async () => {
-   
+
+
         debugger
         ///http://pushakshik.ir/duty
         //https://localhost:7083/duty
