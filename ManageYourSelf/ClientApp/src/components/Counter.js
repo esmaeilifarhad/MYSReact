@@ -1,11 +1,12 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
-
+import { PublicApi } from '../Api/PublicApi'
 const Counter = () => {
     const [duty, setDuty] = useState([])
     useEffect(async () => {
 
-
+        debugger
+        var data = await PublicApi("get", "duty")
         debugger
         ///http://pushakshik.ir/duty
         //https://localhost:7083/duty

@@ -1,4 +1,6 @@
 {
   "toplearnapi": "https://toplearnapi.ghorbany.dev",
-  "localapi": "https://localhost:7263"
+  "localapi": "https://localhost:7083",
+  "test": "http://pushakshik.ir/duty",
+ "test2": "https://localhost:7083/duty"
 }
