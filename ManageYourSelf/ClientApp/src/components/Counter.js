@@ -8,7 +8,7 @@ const Counter = () => {
         debugger
         ///http://pushakshik.ir/duty
         //https://localhost:7083/duty
-        await axios.get('http://pushakshik.ir/duty')
+        await axios.get('https://localhost:7083/duty')
             .then((response) => {
                 debugger
                 setDuty(response.data)

@@ -1,12 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Domains.Bicycle
 {
-  public  class Bicycle: BaseEntity
+    public  class Bicycle: BaseEntity
     {
        
         public string NameSeller { get; set; }

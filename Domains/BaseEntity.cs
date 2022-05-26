@@ -1,14 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Text;
 
 namespace Domains
 {
-   public abstract class BaseEntity<T>
+    public abstract class BaseEntity<T>
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

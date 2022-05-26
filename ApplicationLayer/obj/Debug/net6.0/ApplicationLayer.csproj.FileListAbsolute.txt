@@ -1,0 +1,15 @@
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.AssemblyReference.cache
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfoInputs.cache
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfo.cs
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.deps.json
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.dll
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\bin\Debug\net6.0\ref\ApplicationLayer.dll
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\bin\Debug\net6.0\Domains.dll
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\bin\Debug\net6.0\Domains.pdb
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CopyComplete
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.dll
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\obj\Debug\net6.0\ref\ApplicationLayer.dll
+F:\Projects\ManageYourSelf\2\ManageYourSelf\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.pdb

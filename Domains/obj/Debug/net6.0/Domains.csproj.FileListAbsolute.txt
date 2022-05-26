@@ -1,0 +1,12 @@
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\obj\Debug\net6.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\obj\Debug\net6.0\Domains.AssemblyInfoInputs.cache
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\obj\Debug\net6.0\Domains.AssemblyInfo.cs
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\obj\Debug\net6.0\Domains.csproj.CoreCompileInputs.cache
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\obj\Debug\net6.0\Domains.csproj.AssemblyReference.cache
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\bin\Debug\net6.0\Domains.deps.json
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\bin\Debug\net6.0\Domains.dll
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\bin\Debug\net6.0\ref\Domains.dll
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\bin\Debug\net6.0\Domains.pdb
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\obj\Debug\net6.0\Domains.dll
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\obj\Debug\net6.0\ref\Domains.dll
+F:\Projects\ManageYourSelf\2\ManageYourSelf\Domains\obj\Debug\net6.0\Domains.pdb
