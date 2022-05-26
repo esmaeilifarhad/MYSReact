@@ -10,7 +10,17 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "05257eb6-d54d-4b76-b296-fd3f3a297a26": {
+      "ProjectGuid": "05257eb6-d54d-4b76-b296-fd3f3a297a26",
+      "DisplayName": "Domains",
+      "ColorIndex": 1
+    },
+    "4816af28-1ec3-4154-87d8-3550bcea8738": {
+      "ProjectGuid": "4816af28-1ec3-4154-87d8-3550bcea8738",
+      "DisplayName": "ApplicationLayer",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
